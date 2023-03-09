@@ -1,1 +1,1 @@
-This is a file that shows a script that prints the absolute path name of the current working directory
+this is a file that shows a script that prints the absolute path of the current working directory in long format
